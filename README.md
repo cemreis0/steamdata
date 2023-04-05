@@ -1,7 +1,7 @@
 # Steam Fetch Data API
 
 This piece of code displays top 10 games played on Steam in the last 2 weeks by their time played.
-Other requests like getplayersummary can be implemented
+Other requests like getplayersummary can be implemented.
 
 ## How to Run
 
