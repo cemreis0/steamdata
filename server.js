@@ -2,8 +2,8 @@ const express = require('express')
 var cors = require("cors")
 const axios = require('axios')
 
-const steamapikey = "178E28C2177B7CC9DCA264CB5F28B377"
-const steamid = "76561198358725948"
+const steamapikey = ""
+const steamid = ""
 
 const app = express()
 const port = process.env.PORT || 5000
